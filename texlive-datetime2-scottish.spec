@@ -1,6 +1,6 @@
 Name:		texlive-datetime2-scottish
 Version:	52101
-Release:	1
+Release:	2
 Summary:	Scottish Gaelic Language Module for the datetime2 Package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-scottish
