@@ -3,7 +3,7 @@ Version:	52101
 Release:	2
 Summary:	Scottish Gaelic Language Module for the datetime2 Package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-scottish
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-scottish
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-scottish.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-scottish.doc.r%{version}.tar.xz
